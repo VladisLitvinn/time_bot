@@ -1,0 +1,8 @@
+{
+  "graphs": {
+    "time_bot": {
+      "entrypoint": "main:get_app",
+      "memory": false
+    }
+  }
+}
