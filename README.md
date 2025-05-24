@@ -5,7 +5,7 @@
 1. Установите Ollama:
 ```bash
 curl -fsSL https://ollama.com/install.sh | sh
-ollama pull llama3
+ollama pull llama3.2 latest
 Запустите сервер:
 
 bash
